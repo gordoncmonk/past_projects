@@ -1,0 +1,989 @@
+(dp0
+S'buildDestination'
+p1
+S''
+p2
+sS'saveDestination'
+p3
+S'C:\\Users\\gordo\\Google Drive\\Course Stuff\\CCT312 - Interactive Story Telling for Game Development\\Assignments\\Assignment 1\\Monk_A1_CCT312\\Monk_CCT312_A1.tws'
+p4
+sS'metadata'
+p5
+(dp6
+sS'target'
+p7
+S'jonah'
+p8
+sS'storyPanel'
+p9
+(dp10
+S'widgets'
+p11
+(lp12
+(dp13
+S'selected'
+p14
+I00
+sS'pos'
+p15
+(lp16
+I10
+aI150
+asS'passage'
+p17
+(itiddlywiki
+Tiddler
+p18
+(dp20
+S'text'
+p21
+VThere's a Fork in Here
+p22
+sS'title'
+p23
+VStoryTitle
+p24
+sS'modified'
+p25
+ctime
+struct_time
+p26
+((I2016
+I1
+I31
+I16
+I48
+I48
+I6
+I31
+I0
+tp27
+(dp28
+tp29
+Rp30
+sS'tags'
+p31
+(lp32
+sS'created'
+p33
+g26
+((I2016
+I1
+I18
+I16
+I41
+I35
+I0
+I18
+I0
+tp34
+(dp35
+tp36
+Rp37
+sbsa(dp38
+g14
+I00
+sg15
+(lp39
+I10
+aI290
+asg17
+(itiddlywiki
+Tiddler
+p40
+(dp41
+g21
+VGordon Monk\u000agordon.monk@mail.utoronto.ca
+p42
+sg23
+VStoryAuthor
+p43
+sg25
+g26
+((I2016
+I1
+I31
+I16
+I49
+I53
+I6
+I31
+I0
+tp44
+(dp45
+tp46
+Rp47
+sg31
+(lp48
+sg33
+g26
+((I2016
+I1
+I18
+I16
+I41
+I35
+I0
+I18
+I0
+tp49
+(dp50
+tp51
+Rp52
+sbsa(dp53
+g14
+I00
+sg15
+(lp54
+F11.0
+aF15.0
+asg17
+(itiddlywiki
+Tiddler
+p55
+(dp56
+g21
+V<<set $ForkFlag = false>><<set $DanMeetFlag = false>><<set $JoeMeetFlag = false>><<set $BensonMeetFlag = false>>\u000aAs I lay here I think to myself, \u201cWhat is my story? Am I even the protagonist? What genre would it fall into?\u201d Wondering about these things make my brain hurt. I mean, who would even want to read a story about some usual suspect doing his taxes and working a dead-end job? Probably some book nerd that\u2019s got nothing better to do besides memorize his local library.\u000a	I doubt a book full of complaints would be much of a best-seller anyway. At least my bed is a good listener. Oh well. Might as well get up. Just have to open my eyes\u2026 Yep, just one after the other\u2026 Any second now\u2026\u000a\u000a* <<choice 'Open eyes'>>\u000a* <<choice 'Keep eyes closed'>>\u000a
+p57
+sg23
+VStart
+p58
+sg25
+g26
+((I2016
+I1
+I31
+I18
+I18
+I58
+I6
+I31
+I0
+tp59
+(dp60
+tp61
+Rp62
+sg31
+(lp63
+sg33
+g26
+((I2016
+I1
+I25
+I14
+I26
+I22
+I0
+I25
+I0
+tp64
+(dp65
+tp66
+Rp67
+sbsa(dp68
+g14
+I00
+sg15
+(lp69
+F172.0
+aF14.0
+asg17
+(itiddlywiki
+Tiddler
+p70
+(dp71
+g21
+VYou know what? On second thought, I\u2019ll just keep them closed. I\u2019ve been meaning to see how long I can last without moving or eating. I just hope I can make it through the need for a bathroom. Oh, maybe I\u2019ll finally figure out the trick to hibernating! Wait, don\u2019t I need to eat a ridiculous amount of food to last that through the winter? Ah, forget it, I\u2019ll just go for a personal record. Plus, it\u2019s not even winter.\u000a	I wonder how long it\u2019s been now? This might be more excruciating than I thought. I should try to go back to sleep, that\u2019ll pass the time.\u000a	Heh. Some story I turned out to be. What if my adventure was just about to start? This is like if Arthur got up to the sword in the stone and just changed his mind last second: \u201cActually, I\u2019ll pass, my hands are kind of chafed.\u201d I guess that\u2019s me. Chafed-hands Arthur, King of His Bed. A tale with a satisfying ending that perfectly reflects the rest of the story.\u000a	The end.\u000a
+p72
+sg23
+VKeep eyes closed
+p73
+sg25
+g26
+((I2016
+I1
+I31
+I17
+I22
+I20
+I6
+I31
+I0
+tp74
+(dp75
+tp76
+Rp77
+sg31
+(lp78
+sg33
+g26
+((I2016
+I1
+I31
+I16
+I37
+I55
+I6
+I31
+I0
+tp79
+(dp80
+tp81
+Rp82
+sbsa(dp83
+g14
+I00
+sg15
+(lp84
+F172.0
+aF154.0
+asg17
+(itiddlywiki
+Tiddler
+p85
+(dp86
+g21
+VAt first there\u2019s nothing. No sound. No feeling. No scent. No scenery. Just a plain white canvas, void of any discerning detail. Wait\u2026 that\u2019s unusual. I never hung a mirror above my bed. Depressing self-zinger! Hold on, this is no time for zingers! Where is my ceiling? My\u2026 WALLS? MY ROOM?! MY PRECIOUS BED?!?\u000a	Something fishy is afoot. Normally, I exist in a three-dimensional plane of existence that has detail and colour, not this blank slate.\u000a	Am I\u2026 dead? No, there would have to be a nonchalant human-devil to tell me I\u2019m dead, like in the movies. Unless this is purgatory. In that case, it\u2019s not a huge change from the norm.\u000a	There has to be something here to make sense of. Maybe if\u2013\u000a	\u201cIs that a fork?\u201d\u000a	\u201c\u2026\u201d\u000a	\u201cThere\u2019s a fork in here.\u201d\u000a	\u201cThere\u2019s a singular fork in this big, white emptiness.\u201d\u000a	\u201cWhy the hell is there a fork here?\u201d\u000a	\u201cIs this some kind of test? Or a sick joke?\u201d, I asked, half expecting a response.\u000a	\u201cIf it is then it\u2019s not a very good one.\u201d\u000a	I guess I should do something.\u000a\u000a* <<choice 'Walk around'>>\u000a* <<choice 'Pick up fork'>>\u000a
+p87
+sg23
+VOpen eyes
+p88
+sg25
+g26
+((I2016
+I1
+I31
+I17
+I23
+I3
+I6
+I31
+I0
+tp89
+(dp90
+tp91
+Rp92
+sg31
+(lp93
+sg33
+g26
+((I2016
+I1
+I31
+I16
+I37
+I55
+I6
+I31
+I0
+tp94
+(dp95
+tp96
+Rp97
+sbsa(dp98
+g14
+I00
+sg15
+(lp99
+F310.0
+aF292.0
+asg17
+(itiddlywiki
+Tiddler
+p100
+(dp101
+g21
+VWell, I\u2019m not getting anywhere soon by just sitting here. Let\u2019s see what purgatory has to offer. Maybe it has something besides a single, solitary piece of cutlery.\u000a	Hm? There\u2019s a wall here! I suppose it\u2019s not an endless void, although I\u2019m not ruling out purgatory just yet. If anything I\u2019m starting to think this is Hell. It seems like there are four uniformly distanced walls, about five paces each. So I\u2019m in a box? Oh God, what if I\u2019m about to be opened up like a gift box in the middle of a forest full of hillbillies from Deliverance??\u000a	\u201cYOU\u2019LL NEVER MAKE ME SQUEAL LIKE A PIG,\u201d I squealed, realizing the irony. I slammed my body into the wall with all my weight only to find that it was made of a paper-thin material that would have crumbled had I even sneezed. After familiarizing my face with the floor, I pry my face from the waxy surface, I can\u2019t help but notice a scent of crayons and old, under-the-desk chewing gum.\u000a	Interestingly enough, that\u2019s exactly what I smell. I\u2019m looking around and from what I can surmise, this place\u2019s landscapist recently graduated from kindergarten with a specialization in finger-painting and crayon drawing. It\u2019s like I awoke in some four-year-old\u2019s autophobic fever dream; this spit of land \u2013 at least I think it\u2019s land \u2013 is no larger than my living room, and it\u2019s surrounded by an endless white void. I\u2019m sure it\u2019s a void this time. Who am I kidding? I can\u2019t be sure of anything anymore.\u000a	What now?\u000a\u000a* <<choice 'Examine surroundings'>>\u000a<<if not $ForkFlag>>\u005c\u000a* <<choice 'Return to pick up fork'>>\u000a<<endif>>\u005c\u000a
+p102
+sg23
+VWalk around
+p103
+sg25
+g26
+((I2016
+I1
+I31
+I18
+I9
+I23
+I6
+I31
+I0
+tp104
+(dp105
+tp106
+Rp107
+sg31
+(lp108
+sg33
+g26
+((I2016
+I1
+I31
+I16
+I39
+I26
+I6
+I31
+I0
+tp109
+(dp110
+tp111
+Rp112
+sbsa(dp113
+g14
+I00
+sg15
+(lp114
+F170.0
+aF292.0
+asg17
+(itiddlywiki
+Tiddler
+p115
+(dp116
+g21
+V<<set $ForkFlag = true>>\u000a\u000aI guess if I get lonely in this twilight zone episode I\u2019ll always have this fork. He\u2019s no volleyball, but I think I\u2019ll name him Wilson.\u000a\u000a* [[Walk around]]\u000a
+p117
+sg23
+VPick up fork
+p118
+sg25
+g26
+((I2016
+I1
+I31
+I16
+I39
+I52
+I6
+I31
+I0
+tp119
+(dp120
+tp121
+Rp122
+sg31
+(lp123
+sg33
+g26
+((I2016
+I1
+I31
+I16
+I39
+I26
+I6
+I31
+I0
+tp124
+(dp125
+tp126
+Rp127
+sbsa(dp128
+g14
+I00
+sg15
+(lp129
+F309.0
+aF14.0
+asg17
+(itiddlywiki
+Tiddler
+p130
+(dp131
+g21
+V<<if not $BensonMeetFlag>>\u005c\u000aFocusing in on this Fisher Price set from Hell, it dawns on me that I\u2019m definitely not in Kansas anymore. I don\u2019t even think I\u2019m in my own dimension.\u000a	The collapsed white box from which I elegantly escaped sits behind me in a heap of what looks like tissue paper. It never stood a chance.\u000a<<endif>>\u005c\u000a<<if $BensonMeetFlag>>\u005c\u000aFocusing in on this Fisher Price set from Hell, it dawns on me that I\u2019m definitely not in Kans\u2013 \u2026 Wait. I\u2019ve done this bit before. Huh? But how did I know that? I\u2019ve never been here before.\u000a	\u2026 This place is getting to my head.\u000a<<endif>>\u005c\u000a<<if not $DanMeetFlag>>\u005c\u000a	To my right, there\u2019s a\u2013\u000a	\u201cOh, dude, nasty! Is that a giant gum wad?? Eeeuuugh, it\u2019s all flaky and smells like how an old sock tastes!\u201d\u000a	Indeed, it is a massive gum boulder with all the bleach-washed colours of the rainbow. I\u2019ll use my better judgment and not think about it.\u000a	It looks like there\u2019s something, or someone, on top of it, just sort of\u2026 Standing? Sitting? I can\u2019t tell. It\u2019s got multiple limbs that look like they\u2019ve been jammed into the thing\u2019s centre, like office supplies squished into a ball of clay. Given the area\u2019s \u201cMy First Eternal Suffering\u201d theme, I guess it\u2019s fitting.\u000a<<endif>>\u005c\u000a<<if not $JoeMeetFlag>>\u005c\u000a	Past the boulder and to the left there\u2019s a seemingly normal orange tree and a weird guy leaning on it whose foot is planted way too far out so he looks like an idiot. It looks like his head is on fire. At this point, I\u2019m not really the person to ask what\u2019s normal around here.\u000a<<endif>>\u005c\u000a	Beyond the boulder and the tree is what looks like a regular guy sitting in a chair on the edge of the island. He\u2019s not moving much at all. In fact, he looks\u2026 motionless. Is he breathing? Ugh, I hope he doesn\u2019t turn around and look at me like Norman Bates\u2019 mom.\u000a	I should approach one of these weirdos, maybe they can tell me what\u2019s going on.\u000a\u000a<<if not $DanMeetFlag>>\u005c\u000a* [[Approach boulder-balancing playdoh guy]]\u000a<<endif>>\u005c\u000a<<if not $JoeMeetFlag>>\u005c\u000a* [[Approach conspicuous tree-leaning, fire head guy]]\u000a<<endif>>\u005c\u000a* [[Approach on-edge chair guy]]\u000a<<if not $ForkFlag>>\u005c\u000a* [[I feel like I'm forkgetting something...]]\u000a<<endif>>\u005c\u000a
+p132
+sg23
+VExamine surroundings
+p133
+sg25
+g26
+((I2016
+I1
+I31
+I18
+I43
+I33
+I6
+I31
+I0
+tp134
+(dp135
+tp136
+Rp137
+sg31
+(lp138
+sg33
+g26
+((I2016
+I1
+I31
+I16
+I39
+I43
+I6
+I31
+I0
+tp139
+(dp140
+tp141
+Rp142
+sbsa(dp143
+g14
+I00
+sg15
+(lp144
+F451.0
+aF293.0
+asg17
+(itiddlywiki
+Tiddler
+p145
+(dp146
+g21
+V<<set $ForkFlag = true>>\u000a\u000aI can\u2019t believe I almost forgot the fork! It would have been a bumpy ride without this old beauty! Boy howdy, I sure am glad\u2013 okay, seriously, why is this here? It doesn\u2019t even look like the other kindergarten crayon stuff.\u000a	Maybe I can find some clues\u2026\u000a\u000a* [[Examine surroundings]]\u000a
+p147
+sg23
+VReturn to pick up fork
+p148
+sg25
+g26
+((I2016
+I1
+I31
+I18
+I28
+I39
+I6
+I31
+I0
+tp149
+(dp150
+tp151
+Rp152
+sg31
+(lp153
+sg33
+g26
+((I2016
+I1
+I31
+I16
+I39
+I43
+I6
+I31
+I0
+tp154
+(dp155
+tp156
+Rp157
+sbsa(dp158
+g14
+I00
+sg15
+(lp159
+I9
+aI429
+asg17
+(itiddlywiki
+Tiddler
+p160
+(dp161
+g21
+V* [[Start]]\u000a* [[Open eyes]]\u000a* [[Walk around]]\u000a* [[Examine surroundings]]\u000a* [[I feel like I'm forkgetting something...]]\u000a* [[Approach boulder-balancing playdoh guy]]\u000a* [[Approach conspicuous tree-leaning, fire head guy]]\u000a* [[Approach on-edge chair guy]]\u000a
+p162
+sg23
+VStoryMenu
+p163
+sg25
+g26
+((I2016
+I1
+I31
+I18
+I34
+I52
+I6
+I31
+I0
+tp164
+(dp165
+tp166
+Rp167
+sg31
+(lp168
+sg33
+g26
+((I2016
+I1
+I31
+I16
+I41
+I10
+I6
+I31
+I0
+tp169
+(dp170
+tp171
+Rp172
+sbsa(dp173
+g14
+I00
+sg15
+(lp174
+F600.0
+aF21.0
+asg17
+(itiddlywiki
+Tiddler
+p175
+(dp176
+g21
+V<<set $DanMeetFlag = true>>\u000a\u000a\u201cHi! Are you sentient? Do you have a name? Do you speak English? Do you\u2026 speak at all?\u201d\u000a\u201cYes,\u201d he said.\u000a\u201cGreat! Can you tell me what\u2019s going on? Where am I? Where is this place? WHAT is this place??\u201d\u000a\u201cThis place is.\u201d\u000a\u201c\u2026 Is what, exactly?\u201d\u000a\u201cIt is as it is meant to be.\u201d\u000a\u201c\u2026 Okay, look, if you\u2019re going for the whole Wiseman with \u2018sage advice\u2019 thing, you need to look down here and see that I\u2019m no Neo and you are definitely no Morpheus. Please just answer my que\u2013\u201d\u000a\u201cThis realm is a crossroads between what is and what is not. There exists no \u2018where\u2019 or \u2018what\u2019 here. Only what is perceived by the eye above.\u201d\u000a\u201cThe eye above. Right, okay, and does this eye see a way out of here?\u201d\u000a\u201cOh, uh, it\u2019s Decrepit Dan.\u201d\u000a\u201c\u2026\u201d\u000a\u201c\u2026\u201d\u000a\u201c\u2026 Excuse me?\u201d\u000a\u201cMy name. You asked but I forgot.\u201d\u000a\u201c\u2026 It\u2019s fitting.\u201d\u000a\u201cThanks.\u201d\u000a(This guy\u2019s a nutjob.)\u000a\u201cNuh uh! You\u2019re the nut that exploded out of that paper box like a bird with bacon in its teeth!\u201d\u000a\u201cDid you just read my mind??\u201d\u000a\u201cWha?\u2013 bwuh\u2013 I mean\u2026 Tread cautiously, wanderer. This place is a mystery.\u201d\u000a\u201cAnd you\u2019re making it worse.\u201d\u000aWell that got me nowhere. Hmm, this wad looks precarious. I wonder if I could knock this old fogey off the side of this place. That\u2019d be pretty mean. But he\u2019s been pretty useless so far. Maybe he\u2019s hiding something important in it! Something that can get me out of here?\u000aWhat should I do?\u000a\u000a* <<choice 'Shove gum wad into abyss'>>\u000a* <<choice [[Leave him be|Examine surroundings]]>>\u000a
+p177
+sg23
+VApproach boulder-balancing playdoh guy
+p178
+sg25
+g26
+((I2016
+I1
+I31
+I18
+I50
+I32
+I6
+I31
+I0
+tp179
+(dp180
+tp181
+Rp182
+sg31
+(lp183
+sg33
+g26
+((I2016
+I1
+I31
+I16
+I42
+I28
+I6
+I31
+I0
+tp184
+(dp185
+tp186
+Rp187
+sbsa(dp188
+g14
+I01
+sg15
+(lp189
+F927.0
+aF21.0
+asg17
+(itiddlywiki
+Tiddler
+p190
+(dp191
+g21
+V<<set $BensonMeetFlag = true>>\u000a\u000a<<if not $DanMeetFlag and not $JoeMeetFlag>>\u005c\u000a	\u201cHi there, you mind if I ask a few questions?\u201d\u000a	\u201cNow is not the time. Tell your story.\u201d\u000a	\u201cUhh \u2026 Come again?\u201d\u000a	\u201cGo.\u201d\u000a	\u201cBut I\u2013\u201d\u000a\u000a* [[Huh?|Examine surroundings]]\u000a<<endif>>\u005c\u000a<<if $JoeMeetFlag and not $DanMeetFlag>>\u005c\u000a	\u201cHey, so what\u2019s your story? You like that other misfit?\u201d\u000a	\u201cMy story is not the one being told. Finish yours first.\u201d\u000a	\u201cFinish my\u2026? Excuse me?\u201d\u000a	\u201cGo.\u201d\u000a	\u201cHey, w\u2013\u201d\u000a\u000a* [[What the\u2026?|Examine surroundings]]\u000a<<endif>>\u005c\u000a<<if $DanMeetFlag and not $JoeMeetFlag>>\u005c\u000a	\u201cHello, I was wondering if you had time to answer something for me.\u201d\u000a	\u201cThe answer you look for is at your story\u2019s end. Finish it.\u201d\u000a	\u201cWh\u2013 the end? My story? What are y\u2013\u201d\u000a	\u201cGo.\u201d\u000a	\u201cHold on, I\u2013\u201d\u000a\u000a* [[Wait a second\u2026|Examine surroundings]]\u000a<<endif>>\u005c\u000a<<if $DanMeetFlag and $JoeMeetFlag>>\u005c\u000aI approach the corpse impressionist. Nothing too irregular about him. Aside from the whole stuck-in-time-and-space pose he\u2019s got going on\u2026 Except\u2026 He looks strikingly similar to me. But I guess scrawny white guys come a dime a dozen. His clothes are pretty worn down and ratty looking; like he\u2019s been stranded on an island for months. That\u2019s not a good sign. If he\u2019s been stuck here the same time his clothes have aged look then I might as well start digging my own grave. Maybe he\u2019ll at least share his chair.\u000a	\u201cHello. My name\u2019s\u2013\u201d\u000a	\u201cNo it isn\u2019t.\u201d\u000a	\u201c\u2026 What?\u201d\u000a	\u201cYour name. Whatever you\u2019re about to say, it isn\u2019t yours.\u201d\u000a	\u201cYou\u2019re one of the crazies too, I see. Look, I\u2019m pretty sure I know my own name.\u201d\u000a	\u201cThen tell it to me.\u201d\u000a	\u201cIt\u2019s\u2026\u201d\u000a	\u201c\u2026\u201d\u000a	Huh? I can\u2019t\u2026 What is my\u2026?\u000a	\u201cYou have no name. It hasn\u2019t been written, so it can\u2019t exist.\u201d\u000a	\u201cWh\u2013 written? What do you mean?? Why can\u2019t I remember my own name!?\u201d\u000a	\u201cYou are not real. None of this is.\u201d\u000a	\u201cI can understand you thinking this fever dream isn\u2019t real, but I\u2019m pretty sure I am. Now tell me: WHY DON\u2019T I KNOW MY NAME?!?\u201d\u000a	\u201cYou never had one. This is a story, and you are its protagonist. You always have been. You\u2019ve never remembered your name and you\u2019ve never escaped.\u201d\u000a	\u201c\u2026\u201d\u000a	\u201cYour thoughts have been thought a thousand times in the exact same way and in the exact same order.\u201d\u000a	\u201c\u2026\u201d\u000a	\u201cYou and I are pawns in this limited existence. We exist purely as we are imagined by our audience. We are nothing more than figments of a perceived imagination.\u201d\u000a	\u201c\u2026\u201d\u000a	\u201cThink about it. Dan knew you called him a nutjob. Joe told you his briefcase wasn\u2019t a tumor. All things you believed you had only thought when we could read them clear as day; myself included.\u201d\u000a	\u201c\u2026\u201d\u000a	 \u201cThis is where you deny the truth and usually do something rash.\u201d\u000a	\u201c\u2026 You\u2019re insane.\u201d\u000a	\u201cI am Benson Wendell. I\u2019ve been a part of your story since its inception. I am not insane, nor am I sane. I am the end.\u201d\u000a	\u201cThe\u2026 end?\u201d\u000a	\u201cI am the last character you meet. What happens after our acquaintance is the end of our mutual being. \u2018The end\u2019\u201d\u000a	\u201cI don\u2019t buy it.\u201d\u000a	\u201cThen prove me wrong.\u201d\u000a\u000a<<endif>>\u005c\u000a<<if not $ForkFlag>>\u005c\u000a* [[\u2026|\u201cBad\u201d Ending]]\u000a<<endif>>\u005c\u000a<<if $ForkFlag and $DanMeetFlag and $JoeMeetFlag>>\u005c\u000aWait\u2026 the fork! No one\u2019s even mentioned the fork!\u000a	\u201cWhat about THIS?\u201d I exclaim, as I present the one thing that holds my sanity together.\u000a	\u201c\u2026\u201d\u000a	\u201c\u2026\u201d\u000a	\u201cWhy do you have a fork?\u201d he \u000a	\u201c\u2026 I was going to ask you the same thing.\u201d\u000a	\u201cHOW do you have a fork?\u201d\u000a	\u201cI don\u2019t know! I just woke up next to it in that box!\u201d\u000a	\u201cWell\u2026 uh, I\u2026 don\u2019t know. You\u2019ve never had a fork before.\u201d\u000a	\u201cBefore? I\u2019ve never met you! SEE? YOU\u2019RE THE CRAZY ONE!!\u201d\u000a	\u201cI have been the end to your story time and time again; I\u2019ve met you plenty. Plus, I don\u2019t see it disproving any of what I just told you. You still have no name and we can still read your thoughts.\u201d\u000a	\u201cRRRRAAAUGH THEN READ THIS!!!\u201d\u000a	I screamed as I plunged the fork into his back, sending his lifeless body stumbling out of his chair and over the edge of the world. I looked to see him and the fork flail aimlessly through the nothingness. Getting smaller and smaller. Then nothing. He was gone.\u000a\u000a* [[\u2026|\u201cGood\u201d Ending]]\u000a<<endif>>\u005c\u000a
+p192
+sg23
+VApproach on-edge chair guy
+p193
+sg25
+g26
+((I2016
+I2
+I1
+I13
+I27
+I18
+I0
+I32
+I0
+tp194
+(dp195
+tp196
+Rp197
+sg31
+(lp198
+sg33
+g26
+((I2016
+I1
+I31
+I16
+I42
+I28
+I6
+I31
+I0
+tp199
+(dp200
+tp201
+Rp202
+sbsa(dp203
+g14
+I00
+sg15
+(lp204
+F453.0
+aF155.0
+asg17
+(itiddlywiki
+Tiddler
+p205
+(dp206
+g21
+V<<set $ForkFlag = true>>\u000a\u000aI can\u2019t believe I subconsciously made that pun. I don\u2019t think I\u2019ll ever recover. I\u2019ll never forkgive myself.\u000a	God, I\u2019m lonely\u2026\u000a\u000a<<if not $DanMeetFlag>>\u005c\u000a* <<choice 'Approach boulder-balancing playdoh guy'>>\u000a<<endif>>\u005c\u000a<<if not $JoeMeetFlag>>\u005c\u000a* <<choice 'Approach conspicuous tree-leaning, fire head guy'>>\u000a<<endif>>\u005c\u000a* <<choice 'Approach on-edge chair guy'>>\u000a
+p207
+sg23
+VI feel like I'm forkgetting something...
+p208
+sg25
+g26
+((I2016
+I1
+I31
+I18
+I31
+I7
+I6
+I31
+I0
+tp209
+(dp210
+tp211
+Rp212
+sg31
+(lp213
+sg33
+g26
+((I2016
+I1
+I31
+I16
+I42
+I28
+I6
+I31
+I0
+tp214
+(dp215
+tp216
+Rp217
+sbsa(dp218
+g14
+I00
+sg15
+(lp219
+F763.0
+aF20.0
+asg17
+(itiddlywiki
+Tiddler
+p220
+(dp221
+g21
+V<<set $JoeMeetFlag = true>>\u000a\u000aUpon further inspection, this guy is weirder than I thought. His head is definitely on fire. He doesn\u2019t seem too worried about it though\u2026 It\u2019s strangely\u2026 mesmerizing. It constantly burns but doesn\u2019t spread or melt his skin\u2026 Weird. It must be a pain in the ass to sleep with, he must go through pillows like toilet paper.\u000a	His clothes are\u2026 well, I guess he doesn\u2019t have clothes. From what I can tell, he\u2019s got an even layer of fur all over him and it\u2019s all coloured in the right places to look like black pants and a white dress shirt. I wonder if that briefcase he\u2019s holding is just a dangling tumor? If it is then it\u2019s leaking orange juice. Gross.\u000a	Oh, it\u2019s probably just from the orange tree he\u2019s leaning on\u2026 Seriously, who taught this guy to lean? He\u2019s standing about six feet out from the trunk and leaning at a thirty-degree angle. I hope he at least has some answers.\u000a	\u201cHey, what\u2019s yo\u2013\u201d\u000a	\u201cDO NOT TOUCH MY BRIEFCASE!!!\u201d\u000a	\u201cWoah, okay, we\u2019re yelling now. What\u2019s your problem? I didn\u2019t even mention your briefcase.\u201d\u000a	\u201cIT IS NOT A TUMOR!!! IT IS AN IMPORTANT BRIEFCASE!!!\u201d\u000a	\u201cA tumor? Wait, I never\u2013\u201d\u000a	\u201cI AM AVERAGE JOE!!! I AM AN AVERAGE BUSINESS MAN!!! I MEAN NO TROUBLE!!!\u201d\u000a	\u201cWell, \u201cAverage Joe\u201d, I don\u2019t mean any trouble either, I just want some answers.\u201d\u000a	\u201cYOU CANNOT HAVE MY APPLES!!!\u201d\u000a	\u201cNo, I said answers\u2026 Wait, apples?\u201d\u000a	\u201cYOU LOOKED AT MY APPLE TREE!!! IT IS MINE!!!\u201d\u000a	\u201cApples, huh?\u201d\u000a	I get the feeling that trying to explain the difference between apples and oranges to this wacko is pointless.\u000a	\u201cLook, Joe, all I want\u2013\u201d\u000a	\u201cIT IS AVERAGE JOE!!!\u201d\u000a	\u201c\u2026 Right. Average Joe. I want to know what this place is and how I got here. Did you see how that box got here?\u201d\u000a	\u201cTHE BOX HAS ALWAYS BEEN HERE!!! HERE IS SAFE!!! MY APPLE TREE IS HERE!!!\u201d\u000a	\u201cOf course it is,\u201d I wheeze, \u201cwhat about that case of yo\u2013\u201d\u000a	\u201cTHIS IS MY BRIEFCASE!!! YOU CANNOT TOUCH IT!!! YOU CAN LEARN ABOUT MY BUSINESS AT [[BUSINESS.ORG|http://www.business.org/]]!!!\u201d\u000a	\u201cUgh, nevermind.\u201d\u000a	Okay, this Billy Mays rip-off is getting me nowhere. Time to take matters into my own hands.\u000a	He\u2019s pretty protective of that case of his, but it seems pretty obvious he\u2019s putting the oranges in there and squishing them when closing it. Although, these characters seem to very conveniently avoid my questions, so I can only assume they\u2019re avoiding the truth. Maybe they\u2019re in on the charade. I bet he\u2019s playing dumb to make it seem like he doesn\u2019t have the key hidden in that case!\u000a	Alright, time to make a play: gamble on stealing this guy\u2019s briefcase for some kind of key, or try one of the other weirdos?\u000a\u000a* <<choice 'Steal the briefcase'>>\u000a* <<choice [[Leave him be|Examine surroundings]]>>\u000a
+p222
+sg23
+VApproach conspicuous tree-leaning, fire head guy
+p223
+sg25
+g26
+((I2016
+I1
+I31
+I18
+I52
+I22
+I6
+I31
+I0
+tp224
+(dp225
+tp226
+Rp227
+sg31
+(lp228
+sg33
+g26
+((I2016
+I1
+I31
+I16
+I42
+I28
+I6
+I31
+I0
+tp229
+(dp230
+tp231
+Rp232
+sbsa(dp233
+g14
+I00
+sg15
+(lp234
+F597.0
+aF157.0
+asg17
+(itiddlywiki
+Tiddler
+p235
+(dp236
+g21
+VLooks like I\u2019m going to be a dick today.\u000aI turn and take a few nonchalant steps away from the wad. I quickly spin around to make a headlong dash and use my body\u2019s entire weight to get low enough to hit this thing like a football defensive. For a moment I hear Decrepit Dan\u2019s shrill voice shouting something, but it was interrupted by the proceeding silence.\u000a	\u201cMMF FTFFCK!!\u201d\u000a	I try to scream, but I can hardly move my jaw. I\u2019m stuck.\u000a	In my vain attempt to move a metric tonne of old, disgusting, pre-chewed gum, I forgot that I\u2019m a scrawny weakling and ended up lodging my entire upper torso in a heap of aged saliva and rubber. And this is where my story ends, because I\u2019m still stuck here, telling you this. Or telling myself this? Who am I talking to? How long have I been here?\u000a	I need a shower.\u000a
+p237
+sg23
+VShove gum wad into abyss
+p238
+sg25
+g26
+((I2016
+I1
+I31
+I18
+I12
+I43
+I6
+I31
+I0
+tp239
+(dp240
+tp241
+Rp242
+sg31
+(lp243
+sg33
+g26
+((I2016
+I1
+I31
+I16
+I46
+I23
+I6
+I31
+I0
+tp244
+(dp245
+tp246
+Rp247
+sbsa(dp248
+g14
+I00
+sg15
+(lp249
+F765.0
+aF162.0
+asg17
+(itiddlywiki
+Tiddler
+p250
+(dp251
+g21
+VI\u2019m getting the hell out of here whether this \u201cAverage Joe\u201d lunatic likes it or not.\u000a	\u201cWell, thanks for helping in no way whatsoever, Average Joe,\u201d I scoff.\u000a	\u201cTHANK YOU FOR SHOPPING AT AVERAGE JOE\u2019S [[BUSINESS.ORG|http://www.business.org/]]!!!\u201d\u000a	\u201c\u2026 Yeah.\u201d\u000a	I turn and walk past him, out of his line of sight. He remains leaning on the tree at an impossible angle, sweating profusely. Eugh, I\u2019m starting to wonder if this is worth it.\u000a	I sneak up behind him and latch onto the briefcase, wrenching it out of his hands. I\u2019m pretty sure he just burst my eardrums before I could even hear his scream because all I hear is ringing and it doesn\u2019t seem normal for this guy to have his mouth wide open and not have any sound come out.\u000a	Anyway, I smash the briefcase against the tree, opening it with a clatter. For a second, I sift through the squishy, pulpy mess only to find squishier, pulpier mess. No key or anything. Before I could even think of how to get away from the business banshee, I was met with a large furry arm flung against my side.\u000a	That was the last thing I remember. Aside from the endless whiteness I\u2019ve been staring at for what feels like centuries now. Oh yeah, he pushed me off the side, I guess. I wonder if I can die here. It doesn\u2019t seem like it.\u000a	Man, this is boring\u2026\u000a
+p252
+sg23
+VSteal the briefcase
+p253
+sg25
+g26
+((I2016
+I1
+I31
+I17
+I42
+I8
+I6
+I31
+I0
+tp254
+(dp255
+tp256
+Rp257
+sg31
+(lp258
+sg33
+g26
+((I2016
+I1
+I31
+I16
+I47
+I11
+I6
+I31
+I0
+tp259
+(dp260
+tp261
+Rp262
+sbsa(dp263
+g14
+I00
+sg15
+(lp264
+F1082.0
+aF163.0
+asg17
+(itiddlywiki
+Tiddler
+p265
+(dp266
+g21
+VI\u2019ve done it. I am real. How could someone that reads minds let themselves get forked in the back? Unless\u2026 he wanted to\u2026\u000a	Nah. Who wants to go through getting forked? That must have hurt. I would feel bad for the guy if he hadn\u2019t tried to get all Machiavellian on me and convince I didn\u2019t know my own name\u2026!\u000a	MY NAME! IT\u2019S\u2013\u000a	\u201c\u2026\u201d\u000a	\u201cBenson.\u201d\u000a\u000a	The end.\u000a
+p267
+sg23
+V\u201cGood\u201d Ending
+p268
+sg25
+g26
+((I2016
+I1
+I31
+I16
+I57
+I5
+I6
+I31
+I0
+tp269
+(dp270
+tp271
+Rp272
+sg31
+(lp273
+sg33
+g26
+((I2016
+I1
+I31
+I16
+I56
+I34
+I6
+I31
+I0
+tp274
+(dp275
+tp276
+Rp277
+sbsa(dp278
+g14
+I00
+sg15
+(lp279
+F928.0
+aF162.0
+asg17
+(itiddlywiki
+Tiddler
+p280
+(dp281
+g21
+V\u201cI thought not,\u201d he remarked.\u000a	\u201cBut\u2026\u201d\u000a	\u201c\u2019It is as it is meant to be.\u2019\u201d\u000a	\u201c\u2026\u201d\u000a	\u201cThat\u2019s what Dan told you, remember?\u201d\u000a	\u201cYes, but\u2013\u201d\u000a	\u201cBut nothing. Let it end. Let the cycle serve its purpose and begin to end.\u201d\u000a	\u201cI don\u2019t want to end.\u201d\u000a	\u201cSo you don\u2019t want to begin?\u201d\u000a	\u201cNo, I\u2013\u201d\u000a	Before I could say anything more, I found myself suspended a few feet in front of him me and over the edge. I cried out, cursing him and this special ring of Hell. But it was hopeless. I was gone.\u000a	I fell. All I could do was fall. I couldn\u2019t even tell if I was falling, it\u2019s not like there\u2019s any wind or gravity in this demented hellhole.\u000a	What did that guy say? \u2018Begin to end\u2019? Whatever that\u2019s supposed to mean. I sure wish I could end this. I don\u2019t think time or aging applies here, it feels like I\u2019ve ben suspended here for eons.\u000a	Whatever. It\u2019s not like I\u2019ll remember any of this anyway. If that guy thought I was crazy then, then there\u2019s no doubt I\u2019ll lose my marbles out here.\u000a	I miss my bed. I should try sleeping. Maybe that\u2019ll wedge some time between now and lunacy. Might as well begin.\u000a\u000a* [[Begin to end]]\u000a
+p282
+sg23
+V\u201cBad\u201d Ending
+p283
+sg25
+g26
+((I2016
+I1
+I31
+I18
+I3
+I27
+I6
+I31
+I0
+tp284
+(dp285
+tp286
+Rp287
+sg31
+(lp288
+sg33
+g26
+((I2016
+I1
+I31
+I16
+I56
+I34
+I6
+I31
+I0
+tp289
+(dp290
+tp291
+Rp292
+sbsa(dp293
+g14
+I00
+sg15
+(lp294
+F928.0
+aF306.0
+asg17
+(itiddlywiki
+Tiddler
+p295
+(dp296
+g21
+VAs I lay here I think to myself, \u201cWhat is my story? Am I even the protagonist? What genre would it fall into?\u201d Wondering about these things make my brain hurt\u2026
+p297
+sg23
+VBegin to end
+p298
+sg25
+g26
+((I2016
+I1
+I31
+I18
+I3
+I54
+I6
+I31
+I0
+tp299
+(dp300
+tp301
+Rp302
+sg31
+(lp303
+sg33
+g26
+((I2016
+I1
+I31
+I18
+I2
+I44
+I6
+I31
+I0
+tp304
+(dp305
+tp306
+Rp307
+sbsasS'scale'
+p308
+I1
+sS'snapping'
+p309
+I00
+ss.
